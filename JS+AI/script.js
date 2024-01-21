@@ -182,8 +182,7 @@ function renderSelectedCharacter(character, player) {
 
     renderDiv.appendChild(clonedTemplate);
 
-    // Display turn information
-    introductionDiv.innerHTML = "Combatants: " + player + " - " + character[1];
+    introductionDiv.innerHTML = "";
 }
 
 function combat() {
