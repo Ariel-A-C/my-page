@@ -1,0 +1,1 @@
+var json = require('./characters.json');
