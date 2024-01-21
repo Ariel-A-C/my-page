@@ -1,10 +1,12 @@
-[ { "name": "-Sirius-", "atk": 80, "def": 80, "speed": 60, "hp": 90, "img": "img/Sirius.png"},
-{ "name": "Anemone", "atk": 40, "def": 30, "speed": 130, "hp": 50, "img": "img/Sirius.png"},
-{ "name": "The Eschaton", "atk": 130, "def": 110, "speed": 80, "hp": 140, "img": "img/Sirius.png"},
-{ "name": "Mastergame", "atk": 40, "def": 40, "speed": 30, "hp": 60, "img": "img/Sirius.png"},
-{ "name": "Kappa", "atk": 50, "def": 20, "speed": 120, "hp": 40, "img": "img/Sirius.png"},
-{ "name": "B", "atk": 70, "def": 100, "speed": 80, "hp": 100, "img": "img/Sirius.png"},
-{ "name": "Goldwind", "atk": 120, "def": 130, "speed": 90, "hp": 130, "img": "img/Sirius.png"},
-{ "name": "Boombar", "atk": 90, "def": 100, "speed": 110, "hp": 110, "img": "img/Sirius.png"},
-{ "name": "Reanimation", "atk": 80, "def": 80, "speed": 70, "hp": 100, "img": "img/Sirius.png"},
-{ "name": "Logodomy", "atk": 150, "def": 150, "speed": 150, "hp": 150, "img": "img/Sirius.png"} ]
+[
+{ "name": "-Sirius-", "atk": 80, "def": 80, "speed": 60, "hp": 90},
+{ "name": "Anemone", "atk": 40, "def": 30, "speed": 130, "hp": 50},
+{ "name": "Reaper", "atk": 130, "def": 110, "speed": 80, "hp": 140},
+{ "name": "Mastergame", "atk": 40, "def": 40, "speed": 30, "hp": 60},
+{ "name": "Kappa", "atk": 50, "def": 20, "speed": 120, "hp": 40},
+{ "name": "B", "atk": 70, "def": 100, "speed": 80, "hp": 100},
+{ "name": "Goldwind", "atk": 120, "def": 130, "speed": 90, "hp": 130},
+{ "name": "Boombar", "atk": 90, "def": 100, "speed": 110, "hp": 110},
+{ "name": "Reanimation", "atk": 80, "def": 80, "speed": 70, "hp": 100},
+{ "name": "Logodomy", "atk": 150, "def": 150, "speed": 150, "hp": 150}
+]
