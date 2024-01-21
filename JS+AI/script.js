@@ -13,7 +13,7 @@ function getCharacters() {
             const def = characters[i].def;
             const speed = characters[i].speed;
             const hp = characters[i].hp;
-            const img = "https://ariel-a-c.github.io/my-page/JS+AI/" + characters[i].name;
+            const img = "https://ariel-a-c.github.io/my-page/JS+AI/img/" + characters[i].name + ".png";
 
             const temp = document.getElementById("template");
             const clonedTemplate = temp.content.cloneNode(true);
@@ -42,5 +42,11 @@ function getCharacters() {
 getCharacters();
 
 function abc() {
-    console.log(options[1][1]);
+    usedIDs = []
+    rID = Math.floor(Math.random() * 10);
+    console.log(rID);
+    if (!(rID in usedIDs)) {
+        
+    }
+    
 }

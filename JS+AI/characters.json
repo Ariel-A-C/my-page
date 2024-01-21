@@ -1,12 +1,12 @@
 [
-{ "name": "-Sirius-", "atk": 80, "def": 80, "speed": 60, "hp": 90},
-{ "name": "Anemone", "atk": 40, "def": 30, "speed": 130, "hp": 50},
-{ "name": "Reaper", "atk": 130, "def": 110, "speed": 80, "hp": 140},
-{ "name": "Mastergame", "atk": 40, "def": 40, "speed": 30, "hp": 60},
-{ "name": "Kappa", "atk": 50, "def": 20, "speed": 120, "hp": 40},
-{ "name": "B", "atk": 70, "def": 100, "speed": 80, "hp": 100},
-{ "name": "Goldwind", "atk": 120, "def": 130, "speed": 90, "hp": 130},
-{ "name": "Boombar", "atk": 90, "def": 100, "speed": 110, "hp": 110},
-{ "name": "Reanimation", "atk": 80, "def": 80, "speed": 70, "hp": 100},
-{ "name": "Logodomy", "atk": 150, "def": 150, "speed": 150, "hp": 150}
+{"id": 0, "name": "-Sirius-", "atk": 80, "def": 80, "speed": 60, "hp": 90},
+{"id": 1, "name": "Anemone", "atk": 40, "def": 30, "speed": 130, "hp": 50},
+{"id": 2, "name": "Reaper", "atk": 130, "def": 110, "speed": 80, "hp": 140},
+{"id": 3, "name": "Mastergame", "atk": 40, "def": 40, "speed": 30, "hp": 60},
+{"id": 4, "name": "Kappa", "atk": 50, "def": 20, "speed": 120, "hp": 40},
+{"id": 5, "name": "B", "atk": 70, "def": 100, "speed": 80, "hp": 100},
+{"id": 6, "name": "Goldwind", "atk": 120, "def": 130, "speed": 90, "hp": 130},
+{"id": 7, "name": "Boombar", "atk": 90, "def": 100, "speed": 110, "hp": 110},
+{"id": 8, "name": "Reanimation", "atk": 80, "def": 80, "speed": 70, "hp": 100},
+{"id": 9, "name": "Logodomy", "atk": 150, "def": 150, "speed": 150, "hp": 150}
 ]
