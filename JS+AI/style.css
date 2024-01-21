@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+@font-face {
+    font-family: 'Pusab';
+    src: url('pusab.woff') format('woff');
+  }
+
 body {
     background-color: beige;
+    font-family: 'Inter', sans-serif;
 }
 
 img {
@@ -9,4 +17,16 @@ img {
 
 button {
     cursor: pointer;
+}
+
+.card {
+    font-family: "Pusab";
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 20px;
 }

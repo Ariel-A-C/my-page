@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>JS+AI(?)</title>
+    <title>JS+AI</title>
     <link rel="stylesheet" href="style.css">
     
 </head>
 <body>
-    <div id="introduction">
-        <p>Welcome</p>
-    </div>
-
+    <p id="introduction"></p>
+    <br>
     <section id="render"></section>
+    <br>
+    <div id="combat"></div>
 
     <template id="template">
-        <button class="card">
+        <button class="card" onclick="select(this)" cardid="">
             <h2 class="name"></h2>
             <img class="image">
             <p class="atk_def"></p>
